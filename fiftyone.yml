@@ -1,0 +1,9 @@
+name: "@prernadh/dimensionality_reduction"
+description: This plugin allows you to perform viz computation on a fiftyone subset with one click
+version: 1.0.0
+fiftyone:
+  version: "*"
+url:  https://github.com/prernadh/dimensionality_reduction.git
+license: Apache 2.0
+operators:
+  - dimensionality_reduction
